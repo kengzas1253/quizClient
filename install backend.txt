@@ -4,4 +4,4 @@ yarn add express
 yarn add body-parser
 yarn add core
 npm install -g nodemon
-nodemon ตามชื่อไฟล์.js
+nodemon name of file.js
