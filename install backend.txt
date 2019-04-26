@@ -1,0 +1,7 @@
+npm init -y
+npm install -g yarn
+yarn add express
+yarn add body-parser
+yarn add core
+npm install -g nodemon
+nodemon µÒÁª×èÍä¿Åì.js
